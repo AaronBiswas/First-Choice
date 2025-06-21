@@ -10,7 +10,7 @@ const Home = () => {
   };
 
   return (
-    <div className="flex md:flex-row justify-center items-center gap-4 p-4 mt-16">
+    <div className="flex md:flex-row justify-center  items-center gap-4 p-4 mt-16">
       <div className="w-1/3 h-64 p-4">
         <CardWrapper>
           <img
